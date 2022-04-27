@@ -100,14 +100,14 @@ a:hover {
 }
 
 .citation {
-    font-family: 'Source Sans Pro', sans-serif;
+    
     font-style: italic;
     font-size: 25px;
     font-weight: 500;
 }
 
 .span-1 {
-    font-family: 'Source Sans Pro', sans-serif;
+   
     font-size: 25px;
     font-weight: 400;
 }
@@ -788,7 +788,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
